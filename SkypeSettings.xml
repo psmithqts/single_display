@@ -1,5 +1,5 @@
 <Theming> 
     <ThemeName>Custom</ThemeName> 
-    <CustomBackgroundMainFoRDisplay>MTR_BG_Main.pnj</CustomBackgroundMainFoRDisplay> 
+    <CustomBackgroundMainFoRDisplay>MTR_BG_Main.png</CustomBackgroundMainFoRDisplay> 
     <CustomBackgroundConsole>MTR_BG_Extend.png</CustomBackgroundConsole> 
 </Theming> 
